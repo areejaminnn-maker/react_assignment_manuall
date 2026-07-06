@@ -1,0 +1,63 @@
+.member-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.member-name {
+  margin: 0;
+  font-size: 1.1rem;
+  color: #1f2937;
+}
+
+.admin-badge {
+  background-color: #fef3c7;
+  color: #92400e;
+  border: 1px solid #fcd34d;
+  border-radius: 6px;
+  padding: 2px 8px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.member-role {
+  margin: 4px 0 12px;
+  color: #6b7280;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.member-meta {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 12px;
+  font-size: 0.85rem;
+  color: #374151;
+}
+
+.member-meta li {
+  margin-bottom: 4px;
+}
+
+.skills-wrap {
+  margin-bottom: 14px;
+}
+
+.follow-btn {
+  background-color: #4f46e5;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 18px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.follow-btn:hover {
+  background-color: #4338ca;
+}
