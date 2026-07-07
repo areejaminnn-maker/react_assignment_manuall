@@ -236,4 +236,6 @@ Working through this project is meant to build comfort with:
 - Organizing a codebase in a way that scales cleanly as more components are added
 
 ---
+link of video 
+https://www.loom.com/share/8b10e82246b64ea0821704e21678fa30
 
